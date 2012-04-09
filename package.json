@@ -1,4 +1,5 @@
-{ 	"name": "Encosia-Samples-Cheerio",
+{ 	
+	"name": "Encosia-Samples-Cheerio",
 	"version": "1.0.0",
 	"dependencies" : {
 	  "request" : ">=0.0.1",
